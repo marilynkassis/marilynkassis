@@ -5,7 +5,7 @@
 My focus lies in blending data science and data visualization to deliver meaningful insights and solutions.
 
 ---
-## 🛠 Skills and Expertise
+<!--## 🛠 Skills and Expertise
 
 ### 📊 **Data Analysis & Statistical Tools**
 ![SPSS](https://img.shields.io/badge/Tool-SPSS-blue)
@@ -37,9 +37,9 @@ My focus lies in blending data science and data visualization to deliver meaning
 ### 🖥️ **Office Productivity & Collaboration**
 ![Microsoft Office](https://img.shields.io/badge/Skill-Microsoft%20Office-lightgrey)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-lightgrey)
-![Google Workspace](https://img.shields.io/badge/Tool-Google%20Workspace-lightgrey)
+![Google Workspace](https://img.shields.io/badge/Tool-Google%20Workspace-lightgrey)-->
 
-<!--## 🛠 Skills and Expertise
+## 🛠 Skills and Expertise
 
 - 📊 **Data Analysis & Statistical Tools:**
 SPSS, R Studio, Python, SQL, Excel VBA, Dataiku
@@ -50,7 +50,7 @@ Apache Spark, MongoDB, NoSQL, SSMS (SQL Server Management Studio)
 - 🌐**Digital Marketing & Web Analytics:**
 Google Analytics GA4, Microsoft Clarity, Google Tag Manager, Google Ads, SEMRush
 - 🖥️ **Office Productivity & Collaboration:**
-Microsoft Office Suite (Word, Excel, PowerPoint), GitHub, Google Workspace-->
+Microsoft Office Suite (Word, Excel, PowerPoint), GitHub, Google Workspace
 
 
 ## 📬 Let’s Connect
