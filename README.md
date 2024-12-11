@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to My GitHub Profile 👋
+# Welcome to My GitHub Profile 
 
 My focus lies in blending data science and data visualization to deliver meaningful insights and solutions.
 
