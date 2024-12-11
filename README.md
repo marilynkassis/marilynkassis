@@ -61,7 +61,7 @@ Feel free to reach out or explore more about my work:
 - **LinkedIn**: linkedin.com/in/marilyn-el-kassis
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marilynkassis&show_icons=true&theme=radical)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marilynkassis&show_icons=true&theme=radical)-->
 
 
